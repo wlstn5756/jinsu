@@ -1,6 +1,8 @@
 <?php
 echo "hi";
 echo "master";
+echo "branch";
+echo "branch2";
 /**
  * Created by PhpStorm.
  * User: CHATIS
