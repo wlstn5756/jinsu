@@ -3,6 +3,7 @@ echo "hi";
 echo "master";
 echo "branch";
 echo "branch2";
+echo "stash";
 /**
  * Created by PhpStorm.
  * User: CHATIS
