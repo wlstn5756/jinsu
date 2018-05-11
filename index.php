@@ -1,4 +1,5 @@
 <?php
+echo "hi";
 /**
  * Created by PhpStorm.
  * User: CHATIS
