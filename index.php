@@ -1,6 +1,7 @@
 <?php
 echo "hi";
 echo "branch";
+echo "branch2";
 /**
  * Created by PhpStorm.
  * User: CHATIS
