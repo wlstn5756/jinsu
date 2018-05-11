@@ -1,5 +1,6 @@
 <?php
 echo "hi";
+echo "master";
 /**
  * Created by PhpStorm.
  * User: CHATIS
