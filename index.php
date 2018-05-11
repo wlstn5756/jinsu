@@ -1,6 +1,5 @@
 <?php
 echo "hi";
-echo "hello";
 /**
  * Created by PhpStorm.
  * User: CHATIS
